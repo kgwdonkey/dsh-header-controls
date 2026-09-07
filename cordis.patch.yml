@@ -1,0 +1,6 @@
+# dsh-header-controls bundle 入口
+# dsh.bundle.patch 指向本文件（awesome-dsh-plugin 收录要求：仓库需可用 `dsh plugin add` 安装）。
+# 本机经 profile 层 cordis.patch.yml 手工 insert 激活，与此文件相互独立、互不影响。
+- insert:
+    - id: dsh-header-controls
+      name: dsh-header-controls
