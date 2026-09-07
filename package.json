@@ -1,7 +1,7 @@
 {
   "name": "dsh-header-controls",
   "description": "会话右上角电源控制：Session log 左侧的「重启 / 注销」胶囊按钮，与官方版式一致（静态 web 插件）",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "origin": "self-made",
   "type": "module",
   "main": "lib/index.js",
